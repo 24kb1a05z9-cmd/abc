@@ -1,3 +1,3 @@
 
-console.log(&quot;js Successfully linked&quot;);
-alert(&quot;Hello CSE- the external js File&quot;);
+console.log("js Successfully linked!");
+alert("Hello CSE- the internal js file! ");
